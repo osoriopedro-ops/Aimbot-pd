@@ -1,4 +1,4 @@
-# Aimbot-pd
+# PDR AIM V3.lua
 Aimbot for pc and mobile
 -- PDR AIM V3 - PC
 -- Uso: seu próprio jogo no Roblox Studio
